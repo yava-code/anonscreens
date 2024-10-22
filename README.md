@@ -12,15 +12,16 @@ Installation:
 
 Clone this repository to your local machine using:
 
-bash
+```bash
 
 git clone https://github.com/yava-code/anonscreens
-
+```
 Usage:
 
 To run the script, use the following command:
-
+```
 bash anonimazer.bash
+```
 (make sure its runable)
 
 Customizing the Screenshot Program
@@ -33,6 +34,3 @@ How It Works:
     Run Screenshot Program: The script then runs the screenshot program (or your specified program).
     Restore Original Time: Finally, it restores the system time to its original state.
 
-Note:
-
-This script requires sudo privileges as it changes the system time. Ensure that you have the necessary permissions before running it.
